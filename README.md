@@ -37,8 +37,6 @@ optional arguments:
 
 ### Example
 
-The only existing input is a boolean declaring whenever writing should be allowed or not:
-
 ```
 python apik.py --service googleMaps
 ```
